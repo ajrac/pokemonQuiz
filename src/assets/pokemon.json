@@ -1,0 +1,17 @@
+[
+    {
+      "ID": 1,
+      "Name": "charizard",
+      "Image": "charizard.png"
+    },
+    {
+      "ID": 2,
+      "Name": "blastoise",
+      "Image": "blastoise.png"
+    },
+    {
+      "ID": 3,
+      "Name": "venusaur",
+      "Image": "venusaur.png"
+    }
+  ]
