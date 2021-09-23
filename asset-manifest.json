@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/pokemonQuiz/static/css/main.a617e044.chunk.css",
-    "main.js": "/pokemonQuiz/static/js/main.703431c5.chunk.js",
-    "main.js.map": "/pokemonQuiz/static/js/main.703431c5.chunk.js.map",
-    "runtime-main.js": "/pokemonQuiz/static/js/runtime-main.f1f5ed03.js",
-    "runtime-main.js.map": "/pokemonQuiz/static/js/runtime-main.f1f5ed03.js.map",
-    "static/js/2.9b5edb06.chunk.js": "/pokemonQuiz/static/js/2.9b5edb06.chunk.js",
-    "static/js/2.9b5edb06.chunk.js.map": "/pokemonQuiz/static/js/2.9b5edb06.chunk.js.map",
-    "static/js/3.ea1a081c.chunk.js": "/pokemonQuiz/static/js/3.ea1a081c.chunk.js",
-    "static/js/3.ea1a081c.chunk.js.map": "/pokemonQuiz/static/js/3.ea1a081c.chunk.js.map",
+    "main.css": "/pokemonQuiz/static/css/main.1fabc03d.chunk.css",
+    "main.js": "/pokemonQuiz/static/js/main.10577f30.chunk.js",
+    "main.js.map": "/pokemonQuiz/static/js/main.10577f30.chunk.js.map",
+    "runtime-main.js": "/pokemonQuiz/static/js/runtime-main.680d7359.js",
+    "runtime-main.js.map": "/pokemonQuiz/static/js/runtime-main.680d7359.js.map",
+    "static/css/2.f2512455.chunk.css": "/pokemonQuiz/static/css/2.f2512455.chunk.css",
+    "static/js/2.6c6d3143.chunk.js": "/pokemonQuiz/static/js/2.6c6d3143.chunk.js",
+    "static/js/2.6c6d3143.chunk.js.map": "/pokemonQuiz/static/js/2.6c6d3143.chunk.js.map",
+    "static/js/3.d8a5aa4c.chunk.js": "/pokemonQuiz/static/js/3.d8a5aa4c.chunk.js",
+    "static/js/3.d8a5aa4c.chunk.js.map": "/pokemonQuiz/static/js/3.d8a5aa4c.chunk.js.map",
     "index.html": "/pokemonQuiz/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/pokemonQuiz/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.9b5edb06.chunk.js.LICENSE.txt": "/pokemonQuiz/static/js/2.9b5edb06.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/pokemonQuiz/static/media/logo.6ce24c58.svg"
+    "static/css/2.f2512455.chunk.css.map": "/pokemonQuiz/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.1fabc03d.chunk.css.map": "/pokemonQuiz/static/css/main.1fabc03d.chunk.css.map",
+    "static/js/2.6c6d3143.chunk.js.LICENSE.txt": "/pokemonQuiz/static/js/2.6c6d3143.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1f5ed03.js",
-    "static/js/2.9b5edb06.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.703431c5.chunk.js"
+    "static/js/runtime-main.680d7359.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.6c6d3143.chunk.js",
+    "static/css/main.1fabc03d.chunk.css",
+    "static/js/main.10577f30.chunk.js"
   ]
 }
