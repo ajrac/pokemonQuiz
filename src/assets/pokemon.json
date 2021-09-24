@@ -2,16 +2,61 @@
     {
       "ID": 1,
       "Name": "charizard",
-      "Image": "charizard.png"
+      "Image": "https://i.imgur.com/aSBz1zM.png"
     },
     {
       "ID": 2,
       "Name": "blastoise",
-      "Image": "blastoise.png"
+      "Image": "https://i.imgur.com/WtirmMU.png"
     },
     {
       "ID": 3,
       "Name": "venusaur",
-      "Image": "venusaur.png"
-    }
+      "Image": "https://i.imgur.com/AorS4ud.png"
+    },
+    {
+        "ID": 4,
+        "Name": "dragonite",
+        "Image": "https://i.imgur.com/zuqPA9U.png"
+      },
+      {
+        "ID": 5,
+        "Name": "gyarados",
+        "Image": "https://i.imgur.com/AvlZAeg.png"
+      },
+      {
+        "ID": 6,
+        "Name": "gengar",
+        "Image": "https://i.imgur.com/uQUoGJm.png"
+      },
+      {
+        "ID": 7,
+        "Name": "snorlax",
+        "Image": "https://i.imgur.com/ZEAIQPi.png"
+      },
+      {
+        "ID": 8,
+        "Name": "articuno",
+        "Image": "https://i.imgur.com/6pHLhhg.png"
+      },
+      {
+        "ID": 9,
+        "Name": "moltres",
+        "Image": "https://i.imgur.com/TnRtv0J.png"
+      },
+      {
+        "ID": 10,
+        "Name": "zapdos",
+        "Image": "https://i.imgur.com/7OdbrMe.png"
+      },
+      {
+        "ID": 11,
+        "Name": "mewtwo",
+        "Image": "https://i.imgur.com/wPNhbLn.png"
+      },
+      {
+        "ID": 12,
+        "Name": "mew",
+        "Image": "https://i.imgur.com/mFZ6hfb.png"
+      }
   ]
