@@ -12,17 +12,18 @@ function getRandomElement<T>(items: T[]): T {
   //  return pokemon.Name
 //}
 
-export function ControlPanel({setPokemon}: {setPokemon: (c: Pokemon)=> void}): JSX.Element {
+export function ControlPanel({setPokemon}: {setPokemon: (c: Pokemon)=> void},{pokemon}: {pokemon: Pokemon}): JSX.Element {
     
     
     return <Col>
-    <h1>Control Panel</h1>
+    <h1>Poke Picker</h1>
     
     
     
     <Button onClick = {
         () => setPokemon(getRandomElement(POKEMON))
     }className = "m-4">Next Pokemon</Button>
+    
 
 
     </Col>
