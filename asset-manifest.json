@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pokemonQuiz/static/css/main.639d60d7.chunk.css",
-    "main.js": "/pokemonQuiz/static/js/main.5daea6c9.chunk.js",
-    "main.js.map": "/pokemonQuiz/static/js/main.5daea6c9.chunk.js.map",
+    "main.css": "/pokemonQuiz/static/css/main.f7717fce.chunk.css",
+    "main.js": "/pokemonQuiz/static/js/main.16f2f9c0.chunk.js",
+    "main.js.map": "/pokemonQuiz/static/js/main.16f2f9c0.chunk.js.map",
     "runtime-main.js": "/pokemonQuiz/static/js/runtime-main.f012dc70.js",
     "runtime-main.js.map": "/pokemonQuiz/static/js/runtime-main.f012dc70.js.map",
     "static/css/2.f2512455.chunk.css": "/pokemonQuiz/static/css/2.f2512455.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.d05bac94.chunk.js.map": "/pokemonQuiz/static/js/3.d05bac94.chunk.js.map",
     "index.html": "/pokemonQuiz/index.html",
     "static/css/2.f2512455.chunk.css.map": "/pokemonQuiz/static/css/2.f2512455.chunk.css.map",
-    "static/css/main.639d60d7.chunk.css.map": "/pokemonQuiz/static/css/main.639d60d7.chunk.css.map",
+    "static/css/main.f7717fce.chunk.css.map": "/pokemonQuiz/static/css/main.f7717fce.chunk.css.map",
     "static/js/2.9a7acd21.chunk.js.LICENSE.txt": "/pokemonQuiz/static/js/2.9a7acd21.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f012dc70.js",
     "static/css/2.f2512455.chunk.css",
     "static/js/2.9a7acd21.chunk.js",
-    "static/css/main.639d60d7.chunk.css",
-    "static/js/main.5daea6c9.chunk.js"
+    "static/css/main.f7717fce.chunk.css",
+    "static/js/main.16f2f9c0.chunk.js"
   ]
 }
