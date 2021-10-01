@@ -58,5 +58,35 @@
         "ID": 12,
         "Name": "mew",
         "Image": "https://i.imgur.com/mFZ6hfb.png"
+      },
+      {
+        "ID": 13,
+        "Name": "lapras",
+        "Image": "https://i.imgur.com/HoCcZtD.png"
+      },
+      {
+        "ID": 14,
+        "Name": "nidoking",
+        "Image": "https://i.imgur.com/gmZbeR5.png"
+      },
+      {
+        "ID": 15,
+        "Name": "nidoqueen",
+        "Image": "https://i.imgur.com/6HCISmD.png"
+      },
+      {
+        "ID": 16,
+        "Name": "ditto",
+        "Image": "https://i.imgur.com/gP31j4Q.png"
+      },
+      {
+        "ID": 17,
+        "Name": "pikachu",
+        "Image": "https://i.imgur.com/iYH7Wdu.png"
+      },
+      {
+        "ID": 18,
+        "Name": "rhydon",
+        "Image": "https://i.imgur.com/WLcEAbR.png"
       }
   ]
